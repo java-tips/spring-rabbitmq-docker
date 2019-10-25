@@ -1,4 +1,4 @@
-# spring-rabbitmq-docker
+# Spring Rabbitmq Docker
 
 Start Rabbitmq with docker-compose: \
 ``docker-compose up -d`` \
